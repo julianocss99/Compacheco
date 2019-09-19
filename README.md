@@ -18,4 +18,5 @@ Backend:
 
 # Equipe
 
+O projeto foi desenvolvido por 4 (quatro) profissionais:
 * Juliano César: Desenvolvedor Frontend (Comercial).
